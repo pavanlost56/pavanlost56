@@ -72,6 +72,3 @@
   ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 </div>
 
-<div align="center">
-  <img src="https://github.com/pavanlost56/pavanlost56/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
