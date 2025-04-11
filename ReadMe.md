@@ -1,7 +1,5 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=435&lines=%E2%9C%A8+Welcome+to+My+Profile!;I'm+Pavan+Kumar+Ajmeera" alt="Typing SVG" />
-  
-  [![Visit Count](https://visitcount.itsvg.in/api?id=pavanlost56&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
 <div align="center">
