@@ -54,38 +54,18 @@
   <h2>🔝 Featured Projects</h2>
 </div>
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  
-  <!-- Project Card with Animation -->
-  <a href="https://github.com/pavanlost56/Quantum-Computing-Research" style="text-decoration: none;">
-    <div style="width: 350px; margin: 1rem; transition: transform 0.3s ease-in-out; &:hover { transform: translateY(-5px); }">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavanlost56&repo=Quantum-Computing-Research&theme=tokyonight&hide_border=true" />
-      <p align="center">🔬 Quantum Computing Research</p>
-    </div>
+<div align="center">
+  <a href="https://github.com/pavanlost56/ad-blocker-extension">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavanlost56&repo=ad-blocker-extension&theme=tokyonight" />
   </a>
-
-  <a href="https://github.com/pavanlost56/AI-Speech-Recognition" style="text-decoration: none;">
-    <div style="width: 350px; margin: 1rem; transition: transform 0.3s ease-in-out; &:hover { transform: translateY(-5px); }">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavanlost56&repo=AI-Speech-Recognition&theme=tokyonight&hide_border=true" />
-      <p align="center">🎙️ AI Speech Recognition System</p>
-    </div>
+  <a href="https://github.com/pavanlost56/credit-scoring-model">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavanlost56&repo=credit-scoring-model&theme=tokyonight" />
   </a>
-
-  <a href="https://github.com/pavanlost56/Smart-Browser-Extension" style="text-decoration: none;">
-    <div style="width: 350px; margin: 1rem; transition: transform 0.3s ease-in-out; &:hover { transform: translateY(-5px); }">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavanlost56&repo=Smart-Browser-Extension&theme=tokyonight&hide_border=true" />
-      <p align="center">🌐 Smart Browser Extension</p>
-    </div>
+  <a href="https://github.com/pavanlost56/emotion-recognition">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavanlost56&repo=emotion-recognition&theme=tokyonight" />
   </a>
-
-  <a href="https://github.com/pavanlost56/ML-Credit-Score" style="text-decoration: none;">
-    <div style="width: 350px; margin: 1rem; transition: transform 0.3s ease-in-out; &:hover { transform: translateY(-5px); }">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavanlost56&repo=ML-Credit-Score&theme=tokyonight&hide_border=true" />
-      <p align="center">💳 ML Credit Scoring System</p>
-    </div>
-  </a>
-
 </div>
+
 
 <!-- Add this CSS at the bottom of your README -->
 <style>
@@ -108,17 +88,6 @@
   }
 </style>
 
-<div align="center">
-  <a href="https://github.com/pavanlost56/ad-blocker-extension">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavanlost56&repo=ad-blocker-extension&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/pavanlost56/credit-scoring-model">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavanlost56&repo=credit-scoring-model&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/pavanlost56/emotion-recognition">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavanlost56&repo=emotion-recognition&theme=tokyonight" />
-  </a>
-</div>
 
 <div align="center">
   <h2>✍️ Random Dev Quote</h2>
