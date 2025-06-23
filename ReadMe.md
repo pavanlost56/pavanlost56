@@ -17,9 +17,9 @@
 
 ## About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="400" alt="Coding Animation">
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Developer Coding Animation">
 
-I'm a passionate **B.Tech AI & ML student** at Malla Reddy College of Engineering and Technology, focused on building intelligent applications and scalable backend systems. Currently gaining hands-on experience through internships at leading AI companies.
+I'm a passionate **B.Tech AI & ML student** at Malla Reddy College of Engineering and Technology, focused on building intelligent applications and scalable backend systems. With experience from internships at AI companies, I continue to expand my knowledge in machine learning and software development.
 
 **Current Focus:**
 - Machine Learning model development and deployment
@@ -31,7 +31,7 @@ I'm a passionate **B.Tech AI & ML student** at Malla Reddy College of Engineerin
 const pavanKumar = {
   education: "B.Tech AI & ML (2022-2026)",
   location: "Hyderabad, India 🇮🇳",
-  currentRole: "AI Developer Intern @ VISWAM.AI",
+  currentRole: "B.Tech Student",
   languages: ["Python", "Go", "JavaScript", "Java", "SQL"],
   interests: ["Machine Learning", "Backend Development", "AI Applications"],
   availableFor: "Internships, collaborations, and open-source projects"
@@ -43,18 +43,18 @@ const pavanKumar = {
 ## Experience
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="Work Animation">
+  <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="400" alt="Work Experience Animation">
 </div>
 
-### 🚀 **Current Position:**
-**AI Developer Intern** @ **VISWAM.AI** *(May 2025 – June 2025)*
-- Developing and fine-tuning ML models using Python for real-world AI applications
-- Building and deploying models using locally sourced datasets in open-source environments
-- Applying DevOps practices to streamline model delivery and evaluation
-- Collaborating with cross-functional teams to integrate AI components into production systems
+### 🚀 **Most Recent Position:**
+**AI Developer Intern** @ **VISWAM.AI** *(May 2023 – June 2023)*
+- Developed and fine-tuned ML models using Python for real-world AI applications
+- Built and deployed models using locally sourced datasets in open-source environments
+- Applied DevOps practices to streamline model delivery and evaluation
+- Collaborated with cross-functional teams to integrate AI components into production systems
 
 ### 🤖 **Previous Experience:**
-**Machine Learning Intern** @ **CodeAlpha** *(Oct 2024 – Nov 2024)*
+**Machine Learning Intern** @ **CodeAlpha** *(Oct 2022 – Nov 2022)*
 - Completed comprehensive internship focused on ML fundamentals and applied model training
 - Implemented Python-based data preprocessing to improve ML pipeline performance
 - Contributed to version-controlled projects and participated in peer code reviews
@@ -109,23 +109,23 @@ const pavanKumar = {
 </div>
 
 ### 🤖 **Machine Learning Projects**
-- **Credit Scoring Model** *(Jan 2025 – Mar 2025)*
+- **Credit Scoring Model** *(Jan 2023 – Mar 2023)*
   - Developed ML model to predict creditworthiness using customer financial data
   - Achieved high accuracy using logistic regression and decision tree classifiers
   - **Tech:** Python, Scikit-learn, Pandas
 
-- **Emotion Recognition System** *(Sep 2024 – Nov 2024)*
+- **Emotion Recognition System** *(Sep 2022 – Nov 2022)*
   - Built deep learning model with TensorFlow/Keras to classify emotions from images
   - Trained on FER2013 dataset with data augmentation techniques
   - **Tech:** Python, TensorFlow, Keras, Computer Vision
 
 ### 💻 **Development Projects**
-- **Backend API Development** *(Jul 2023 – Sep 2023)*
+- **Backend API Development** *(Jul 2022 – Sep 2022)*
   - Developed REST APIs using Go and Python following microservices architecture
   - Ensured scalability with proper routing, logging, and testing
   - **Tech:** Go, Python, REST APIs, Microservices
 
-- **Ad Blocker Extension** *(Apr 2024 – May 2024)*
+- **Ad Blocker Extension** *(Apr 2023 – May 2023)*
   - Created JavaScript browser extension to detect and block ad content
   - Leveraged DOM manipulation and browser APIs to enhance user experience
   - **Tech:** JavaScript, Browser APIs, DOM Manipulation
@@ -134,28 +134,31 @@ const pavanKumar = {
 
 ## GitHub Statistics
 
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pavanlost56&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanlost56&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-  
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/pavanlost56">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pavanlost56&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Pavan's GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/pavanlost56">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pavanlost56&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Pavan's Most Used Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pavanlost56&theme=tokyonight&hide_border=true)
-  
-</div>
 
 ---
 
 ## Education
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" alt="Education Animation">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="Education Animation">
 </div>
 
-🎓 **B.Tech in Computer Science (AI & ML)** - *Malla Reddy College of Engineering* (2022-2026)
+🎓 **B.Tech in Computer Science (AI & ML)**- *Malla Reddy College of Engineering* (2022-2026)
 
 🏫 **Intermediate (MPC)** - *Narayana Junior College* - 75.6% (2020-2022)
 
@@ -166,9 +169,16 @@ const pavanKumar = {
 ## What I'm Currently Learning
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="Learning Animation">
+  <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="400" alt="Developer Learning Animation">
 </div>
 
+### 🔥 **Technologies & Languages**
+- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) Building robust backend APIs with Express.js
+- ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) Advanced Go programming and microservices
+- ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) Systems programming and performance optimization
+- ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white) Building modern static websites with Astro
+
+### 🚀 **Core Focus Areas**
 - 🤖 Advanced Machine Learning techniques and model optimization
 - ☁️ Cloud deployment and MLOps practices
 - 🔧 Advanced backend development with microservices
@@ -180,14 +190,18 @@ const pavanKumar = {
 ## Connect With Me
 
 <div align="center">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212257464-8c1a8fb5-9b8d-4b14-8b6a-7b2b7b4b7b4b.gif" width="400" alt="Connect Animation">
+
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" alt="Developers Connecting">
 
 ### Let's build the future with AI! 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavanlost56)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavankumar22119@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavanlost56)
+<div align="center">
+<a href="https://github.com/pavanlost56">
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="100" alt="GitHub Contact">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100" alt="Developer Contact">
+</div>
 
 ### 📞 Contact: +91-9440926408
 
@@ -213,6 +227,6 @@ const pavanKumar = {
 
 ---
 
-<sub>Built with ❤️ by Ajmeera Pavan Kumar | AI & ML Student | Last updated: 2025</sub>
+<sub>Built with ❤️ by Ajmeera Pavan Kumar | AI & ML Student | Last updated: June 2025</sub>
 
 </div>
