@@ -1,16 +1,11 @@
-# Hi there, I'm Ajmeera Pavan Kumar 👋
+# Ajmeera Pavan Kumar
+## B.Tech AI & ML Student | Aspiring ML Engineer
 
 <div align="center">
   
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" alt="Developer Animation">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=B.Tech+AI+%26+ML+Student;Machine+Learning+Enthusiast;Backend+Developer;Open+Source+Contributor)
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=pavanlost56&label=Profile%20views&color=2E86AB&style=flat" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/pavanlost56?label=Followers&style=social" alt="GitHub Followers" />
-  </p>
-  
 </div>
 
 ---
@@ -153,10 +148,6 @@ const pavanKumar = {
 ---
 
 ## Education
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="Education Animation">
-</div>
 
 🎓 **B.Tech in Computer Science (AI & ML)**- *Malla Reddy College of Engineering* (2022-2026)
 
