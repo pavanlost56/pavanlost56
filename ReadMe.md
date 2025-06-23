@@ -3,7 +3,9 @@
 
 <div align="center">
   
+  
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" alt="Developer Animation">
+  
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=B.Tech+AI+%26+ML+Student;Machine+Learning+Enthusiast;Backend+Developer;Open+Source+Contributor)
 </div>
@@ -99,10 +101,6 @@ const pavanKumar = {
 
 ## Featured Projects
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Projects Animation">
-</div>
-
 ### 🤖 **Machine Learning Projects**
 - **Credit Scoring Model** *(Jan 2023 – Mar 2023)*
   - Developed ML model to predict creditworthiness using customer financial data
@@ -147,16 +145,6 @@ const pavanKumar = {
 
 ---
 
-## Education
-
-🎓 **B.Tech in Computer Science (AI & ML)**- *Malla Reddy College of Engineering* (2022-2026)
-
-🏫 **Intermediate (MPC)** - *Narayana Junior College* - 75.6% (2020-2022)
-
-🏫 **SSC** - *Sri Chaitanya Techno High School* - CGPA: 9.3 (2019-2020)
-
----
-
 ## What I'm Currently Learning
 
 <div align="center">
@@ -197,10 +185,11 @@ const pavanKumar = {
 ### 📞 Contact: +91-9440926408
 
 ### 💼 Open to:
-- **Internship** opportunities in AI/ML and Backend Development
-- **Collaboration** on innovative AI projects
-- **Open source** contributions
-- **Technical discussions** about ML and software development
+
+- **Seeking** internship opportunities in AI/ML and Backend Development  
+- **Open to** collaborating on innovative AI projects  
+- **Interested in** contributing to open source  
+- **Enjoy** engaging in technical discussions on Machine Learning and Software Development
 
 </div>
 
