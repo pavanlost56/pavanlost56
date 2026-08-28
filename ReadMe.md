@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ajmeera Pavan Kumar</h1>
+<h1 align="center">Ajmeera Pavan Kumar</h1>
 <p align="center">
   <samp>AI/ML Student · Creative Coder · Curious Builder</samp>
 </p>
