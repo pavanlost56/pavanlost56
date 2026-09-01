@@ -1,0 +1,35 @@
+name: refresh card
+
+on:
+  schedule:
+    - cron: "17 4 * * *"        # daily, 04:17 UTC
+  workflow_dispatch:            # and on demand from the Actions tab
+  push:
+    paths: [card.py, avatar.png, .github/workflows/card.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install --quiet pillow
+      - run: python3 card.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # 5000 API calls/hour instead of 60
+      - name: commit if the numbers moved
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dark_mode.svg light_mode.svg
+          if git diff --cached --quiet; then
+            echo "card unchanged"
+          else
+            git commit -m "chore: refresh profile card"
+            git push
+          fi
