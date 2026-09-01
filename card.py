@@ -27,8 +27,7 @@ USER = "pavanlost56"
 LEETCODE = "pavanlost56"
 NAME = "Pavan Kumar Ajmeera"
 TAGLINE = "Builds AI models, backend systems, and automation tools."
-STACK = ["Python", "Go", "TypeScript", "JavaScript", "Java", "SQL",
-         "PyTorch", "TensorFlow", "Pandas", "NumPy", "Linux", "AWS"]
+STACK = ["Python", "Go", "TypeScript", "PyTorch", "AWS"]
 TOOLS = {"Codex": "openai", "opencode": "opencode", "Claude Code": "claudecode",
          "VS Code": "visualstudiocode", "git": "git", "Ollama": "ollama", "Docker": "docker"}
 # simple-icons pinned per mark: the newest release dropped the OpenAI and VS Code marks,
@@ -261,6 +260,11 @@ def build(theme, art, gh, lc):
         mask. The set is drawn twice and shifted by exactly one set width, which is
         what makes the loop seamless."""
         run = sum(len(label) * 7.3 + (54 if slug else 30) for label, slug in items)
+        if run <= right:                                      # fits: no reason to move
+            bx = x2
+            for label, slug in items:
+                bx += chip(bx, y, label, slug)
+            return
         a, b = (0, -run) if leftwards else (-run, 0)
         s.append(f'<mask id="{name}fade"><rect x="{x2}" y="{y-4}" width="{right}" height="32" '
                  f'fill="url(#fade)"/></mask>')
