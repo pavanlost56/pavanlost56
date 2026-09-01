@@ -4,11 +4,6 @@
   <img alt="pavanlost56's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-# Ajmeera Pavan Kumar  
-**AI/ML Student · Creative Coder · Curious Builder**
-
----
-
 ## 🎯 About Me  
 > *“I don’t just code, I craft solutions.”*  
 
