@@ -24,12 +24,16 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # 5000 API calls/hour instead of 60
       - name: commit if the numbers moved
         run: |
+          if git diff --quiet dark_mode.svg light_mode.svg; then
+            echo "card unchanged"
+            exit 0
+          fi
+          # GitHub keeps serving the previously cached image for an unchanged URL,
+          # so the README's ?v= stamp moves whenever the card does.
+          stamp=$(date -u +%Y%m%d%H%M)
+          sed -i -E "s/(dark_mode\.svg|light_mode\.svg)(\?v=[0-9]+)?/\1?v=$stamp/g" ReadMe.md
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add dark_mode.svg light_mode.svg
-          if git diff --cached --quiet; then
-            echo "card unchanged"
-          else
-            git commit -m "chore: refresh profile card"
-            git push
-          fi
+          git add ReadMe.md dark_mode.svg light_mode.svg
+          git commit -m "chore: refresh profile card"
+          git push
