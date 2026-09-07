@@ -138,7 +138,7 @@
 <text x="943.0" y="464" fill="#09090b" font-family="'Geist','Geist Sans',ui-sans-serif,-apple-system,'Segoe UI',Inter,sans-serif" font-size="30" font-weight="600" letter-spacing="-0.5">11</text>
 <text x="987.0" y="464" fill="#71717a" font-family="'Geist Mono','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13">repos</text>
 <text x="1173.0" y="424" fill="#a1a1aa" font-family="'Geist Mono','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" text-anchor="end">stars <tspan fill="#71717a">0</tspan></text>
-<text x="1173.0" y="441" fill="#a1a1aa" font-family="'Geist Mono','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" text-anchor="end">followers <tspan fill="#71717a">9</tspan></text>
+<text x="1173.0" y="441" fill="#a1a1aa" font-family="'Geist Mono','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" text-anchor="end">followers <tspan fill="#71717a">8</tspan></text>
 <circle cx="640" cy="590" r="4" fill="#16a34a"/>
 <text x="654" y="594" fill="#71717a" font-family="'Geist Mono','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12">open to collaborating</text>
 <text x="1193" y="594" fill="#a1a1aa" font-family="'Geist Mono','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" text-anchor="end">github.com/pavanlost56</text>
